@@ -78,4 +78,4 @@ If you find this project useful or interesting, please consider giving it a **�
 
 Your support is greatly appreciated and motivates me to build and improve more AI projects. 🚀
 
-**Made with ❤️ using Python, NLP & Generative AI**
+**Built with Python, NLP & Generative AI**
