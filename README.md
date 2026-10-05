@@ -27,15 +27,6 @@
 * **Financial PhraseBank** – Financial sentiment classification
 * **FinNER** – Financial named entity recognition
 
-## ⚙️ Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/heshmasree2809/Personal-Finance-Assistant.git
-cd Personal-Finance-Assistant
-```
-
 ### Install Dependencies
 
 ```bash
